@@ -88,7 +88,3 @@ Built Using
 * Alpine Linux
 * Todoist Sync API v8
 * SQLite3
-
-Authors
-----------
-* **Casper Frost** - [CasperFrost](https://github.com/casperfrost)
